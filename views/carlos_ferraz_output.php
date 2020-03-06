@@ -40,7 +40,7 @@ reset($clean_posts);
         <div class="container">
 
             <div class="card text-white bg-primary mb-3" >
-                <div class="card-header">String Functions</div>
+                <div class="card-header h2">String Functions</div>
                 <div class="card-body">
 
                     <div class="card text-white bg-info mb-3">
@@ -78,7 +78,7 @@ reset($clean_posts);
             </div><!-- end of string functions -->
 
             <div class="card text-white bg-info mb-3" >
-                <div class="card-header">Array Functions</div>
+                <div class="card-header h2">Array Functions</div>
                 <div class="card-body">
 
                     <div class="card text-white bg-primary mb-3">
